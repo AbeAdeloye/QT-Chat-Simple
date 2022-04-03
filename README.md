@@ -1,4 +1,4 @@
-# QT-Chat-Simple
+# QT-Chat-Simple (TCP Client-Server)
 This project was devoted to the development of a client-server application that will allow users to exchange personal messages. 
 The main node is the server that manages the clients, sends them messages about new users and those that are logged out of the network. 
 The client application provides an interface for exchanging messages and provides information about the availability of the server.
