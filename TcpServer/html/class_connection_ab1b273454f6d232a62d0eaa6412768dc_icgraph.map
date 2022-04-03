@@ -1,0 +1,11 @@
+<map id="Connection::addresPort" name="Connection::addresPort">
+<area shape="rect" id="node2" href="$class_connection.html#a933d665798bbbadd6e770bce61f3c6db" title="Connection::disconnectFromHost" alt="" coords="212,60,429,87"/>
+<area shape="rect" id="node6" href="$class_peer_manager.html#aae3163d2f03fe1d6541f4c7f39237f4d" title="PeerManager::readyForUse" alt="" coords="477,111,660,137"/>
+<area shape="rect" id="node9" href="$class_main_window.html#a3f7f89b71bd1acb7f7bd29617fecfe49" title="MainWindow::newConnection" alt="" coords="223,161,418,188"/>
+<area shape="rect" id="node3" href="$class_peer_manager.html#a6e282000b944e48ae7ad788e72935421" title="PeerManager::disconected\lAllPeers" alt="" coords="480,45,657,86"/>
+<area shape="rect" id="node4" href="$class_peer_manager.html#ab158511ed8b34678e348a7157b145d8e" title="PeerManager::~PeerManager" alt="" coords="714,5,906,32"/>
+<area shape="rect" id="node5" href="$class_peer_manager.html#a50b498330d7aa8ff5d41c1aac8b51aae" title="PeerManager::stopServer" alt="" coords="725,56,895,83"/>
+<area shape="rect" id="node7" href="$class_peer_manager.html#a0468261e239c02dcdf67bf3d61cf267c" title="PeerManager::newConnections" alt="" coords="708,111,912,137"/>
+<area shape="rect" id="node8" href="$class_peer_manager.html#a8103af082c6556988afb13a3b0e7448f" title="PeerManager::PeerManager" alt="" coords="960,111,1144,137"/>
+<area shape="rect" id="node10" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow::MainWindow" alt="" coords="479,161,659,188"/>
+</map>

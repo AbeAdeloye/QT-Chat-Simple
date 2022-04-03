@@ -1,0 +1,11 @@
+<map id="PeerManager::readyForUse" name="PeerManager::readyForUse">
+<area shape="rect" id="node2" href="$class_connection.html#aab996455adcc39586c6c62b40393ca03" title="Connection::nickName" alt="" coords="513,18,667,44"/>
+<area shape="rect" id="node4" href="$class_connection.html#a1b8f7c65166a5aae6b51885638797106" title="Connection::sendError" alt="" coords="269,43,421,70"/>
+<area shape="rect" id="node5" href="$class_connection.html#ab1b273454f6d232a62d0eaa6412768dc" title="Connection::addresPort" alt="" coords="511,119,669,146"/>
+<area shape="rect" id="node6" href="$class_connection.html#a933d665798bbbadd6e770bce61f3c6db" title="Connection::disconnectFromHost" alt="" coords="236,94,453,120"/>
+<area shape="rect" id="node7" href="$class_singleton.html#addc6ecbb58ad4b221661df52f2e93e48" title="Singleton\&lt; PeerManager \&gt;::i" alt="" coords="251,195,439,222"/>
+<area shape="rect" id="node8" href="$class_connection.html#a1eab232b1241a032a0605d5569919922" title="Connection::sendNickName" alt="" coords="251,246,438,272"/>
+<area shape="rect" id="node9" href="$class_peer_manager.html#a638fe5a0c772e6a2e92157290ef23edd" title="PeerManager::sendMessage" alt="" coords="251,296,439,323"/>
+<area shape="rect" id="node3" href="$class_client.html#ad8945aaae810af725e5001dfc68c08a3" title="Client::nickName" alt="" coords="727,18,849,44"/>
+<area shape="rect" id="node10" href="$class_connection.html#a4f5f635d3584775de12d009bbc5a6924" title="Connection::sendMessage" alt="" coords="501,296,679,323"/>
+</map>

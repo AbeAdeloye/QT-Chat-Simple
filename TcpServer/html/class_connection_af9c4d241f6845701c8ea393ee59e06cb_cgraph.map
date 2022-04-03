@@ -1,0 +1,4 @@
+<map id="Connection::sendGreetingMessage" name="Connection::sendGreetingMessage">
+<area shape="rect" id="node2" href="$class_connection.html#a2bde03d6d75d386f1219ed3e96fa833f" title="Connection::greetingMessage" alt="" coords="227,13,421,39"/>
+<area shape="rect" id="node3" href="$class_client.html#ad8945aaae810af725e5001dfc68c08a3" title="Client::nickName" alt="" coords="469,13,592,39"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="PeerManager::~PeerManager" name="PeerManager::~PeerManager">
+<area shape="rect" id="node2" href="$class_peer_manager.html#a6e282000b944e48ae7ad788e72935421" title="PeerManager::disconected\lAllPeers" alt="" coords="245,23,423,65"/>
+<area shape="rect" id="node3" href="$class_connection.html#a933d665798bbbadd6e770bce61f3c6db" title="Connection::disconnectFromHost" alt="" coords="471,31,688,57"/>
+<area shape="rect" id="node4" href="$class_connection.html#aab996455adcc39586c6c62b40393ca03" title="Connection::nickName" alt="" coords="738,5,893,32"/>
+<area shape="rect" id="node6" href="$class_connection.html#ab1b273454f6d232a62d0eaa6412768dc" title="Connection::addresPort" alt="" coords="736,56,895,83"/>
+<area shape="rect" id="node5" href="$class_client.html#ad8945aaae810af725e5001dfc68c08a3" title="Client::nickName" alt="" coords="943,5,1065,32"/>
+</map>

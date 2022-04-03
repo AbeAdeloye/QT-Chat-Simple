@@ -1,0 +1,12 @@
+<map id="client.h" name="client.h">
+<area shape="rect" id="node2" href="$client_8cpp.html" title="client.cpp" alt="" coords="87,80,165,107"/>
+<area shape="rect" id="node3" href="$connection_8h.html" title="connection.h" alt="" coords="190,80,286,107"/>
+<area shape="rect" id="node4" href="$connection_8cpp.html" title="connection.cpp" alt="" coords="5,155,116,181"/>
+<area shape="rect" id="node5" href="$mainwindow_8h.html" title="mainwindow.h" alt="" coords="140,155,245,181"/>
+<area shape="rect" id="node8" href="$_tcp_server_8h.html" title="TcpServer.h" alt="" coords="321,155,414,181"/>
+<area shape="rect" id="node9" href="$peermanager_8h.html" title="peermanager.h" alt="" coords="231,229,339,256"/>
+<area shape="rect" id="node6" href="$main_8cpp.html" title="main.cpp" alt="" coords="81,229,155,256"/>
+<area shape="rect" id="node7" href="$mainwindow_8cpp.html" title="mainwindow.cpp" alt="" coords="133,304,252,331"/>
+<area shape="rect" id="node11" href="$tcpserver_8cpp.html" title="tcpserver.cpp" alt="" coords="363,229,465,256"/>
+<area shape="rect" id="node10" href="$peermanager_8cpp.html" title="peermanager.cpp" alt="" coords="277,304,399,331"/>
+</map>

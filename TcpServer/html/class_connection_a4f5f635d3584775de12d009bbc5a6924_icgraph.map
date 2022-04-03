@@ -1,0 +1,6 @@
+<map id="Connection::sendMessage" name="Connection::sendMessage">
+<area shape="rect" id="node2" href="$class_peer_manager.html#a638fe5a0c772e6a2e92157290ef23edd" title="PeerManager::sendMessage" alt="" coords="231,5,419,32"/>
+<area shape="rect" id="node3" href="$class_peer_manager.html#aae3163d2f03fe1d6541f4c7f39237f4d" title="PeerManager::readyForUse" alt="" coords="467,5,649,32"/>
+<area shape="rect" id="node4" href="$class_peer_manager.html#a0468261e239c02dcdf67bf3d61cf267c" title="PeerManager::newConnections" alt="" coords="697,5,901,32"/>
+<area shape="rect" id="node5" href="$class_peer_manager.html#a8103af082c6556988afb13a3b0e7448f" title="PeerManager::PeerManager" alt="" coords="949,5,1133,32"/>
+</map>

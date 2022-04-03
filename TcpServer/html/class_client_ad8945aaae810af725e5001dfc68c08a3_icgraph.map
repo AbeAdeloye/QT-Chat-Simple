@@ -1,0 +1,15 @@
+<map id="Client::nickName" name="Client::nickName">
+<area shape="rect" id="node2" href="$class_connection.html#aab996455adcc39586c6c62b40393ca03" title="Connection::nickName" alt="" coords="196,136,351,163"/>
+<area shape="rect" id="node13" href="$class_connection.html#a2bde03d6d75d386f1219ed3e96fa833f" title="Connection::greetingMessage" alt="" coords="176,191,371,217"/>
+<area shape="rect" id="node3" href="$class_connection.html#a933d665798bbbadd6e770bce61f3c6db" title="Connection::disconnectFromHost" alt="" coords="419,60,636,87"/>
+<area shape="rect" id="node7" href="$class_peer_manager.html#aae3163d2f03fe1d6541f4c7f39237f4d" title="PeerManager::readyForUse" alt="" coords="698,111,881,137"/>
+<area shape="rect" id="node10" href="$class_connection.html#aa7071a2d55cdf43ffe4b02b3c7203a04" title="Connection::processData" alt="" coords="442,161,613,188"/>
+<area shape="rect" id="node4" href="$class_peer_manager.html#a6e282000b944e48ae7ad788e72935421" title="PeerManager::disconected\lAllPeers" alt="" coords="701,45,878,86"/>
+<area shape="rect" id="node5" href="$class_peer_manager.html#ab158511ed8b34678e348a7157b145d8e" title="PeerManager::~PeerManager" alt="" coords="949,5,1141,32"/>
+<area shape="rect" id="node6" href="$class_peer_manager.html#a50b498330d7aa8ff5d41c1aac8b51aae" title="PeerManager::stopServer" alt="" coords="959,56,1130,83"/>
+<area shape="rect" id="node8" href="$class_peer_manager.html#a0468261e239c02dcdf67bf3d61cf267c" title="PeerManager::newConnections" alt="" coords="943,111,1147,137"/>
+<area shape="rect" id="node9" href="$class_peer_manager.html#a8103af082c6556988afb13a3b0e7448f" title="PeerManager::PeerManager" alt="" coords="1195,111,1379,137"/>
+<area shape="rect" id="node11" href="$class_connection.html#af05263c69e7d418695086a038a16493b" title="Connection::processReadyRead" alt="" coords="684,169,895,196"/>
+<area shape="rect" id="node12" href="$class_connection.html#a903238da767af13261c8de1721807b48" title="Connection::Connection" alt="" coords="963,195,1126,221"/>
+<area shape="rect" id="node14" href="$class_connection.html#af9c4d241f6845701c8ea393ee59e06cb" title="Connection::sendGreeting\lMessage" alt="" coords="441,213,614,254"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="PeerManager" name="PeerManager">
+<area shape="rect" id="node3" href="$class_singleton.html" title="{Singleton\&lt; PeerManager \&gt;\n||+ Singleton()\l+ ~Singleton()\l+ i()\l}" alt="" coords="107,588,284,695"/>
+<area shape="rect" id="node4" href="$class_singleton.html" title="{Singleton\&lt; T \&gt;\n||+ Singleton()\l+ ~Singleton()\l+ i()\l}" alt="" coords="5,367,113,474"/>
+<area shape="rect" id="node6" href="$class_tcp_server.html" title="{TcpServer\n||+ TcpServer()\l+ startServer()\l+ stopServer()\l# incomingConnection()\l}" alt="" coords="225,132,384,253"/>
+</map>

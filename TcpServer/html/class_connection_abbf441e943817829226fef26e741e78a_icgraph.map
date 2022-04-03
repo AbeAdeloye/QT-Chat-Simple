@@ -1,0 +1,8 @@
+<map id="Connection::readDataIntoBuffer" name="Connection::readDataIntoBuffer">
+<area shape="rect" id="node2" href="$class_connection.html#a48f4fbdb292a33b1242652fcaa70ffec" title="Connection::dataLengthFor\lCurrentDataType" alt="" coords="224,67,403,109"/>
+<area shape="rect" id="node4" href="$class_connection.html#a82ef36aa710511384c4aac47fa72e712" title="Connection::readProtocol\lHeader" alt="" coords="691,71,861,113"/>
+<area shape="rect" id="node3" href="$class_connection.html#ac1ff77af0ca7bc8ca78a7bb78b162946" title="Connection::readNickName\lForSend" alt="" coords="451,42,633,83"/>
+<area shape="rect" id="node7" href="$class_connection.html#a5b64931a7c4dbccdda15fda4f6db71cb" title="Connection::hasEnoughData" alt="" coords="681,5,871,32"/>
+<area shape="rect" id="node5" href="$class_connection.html#af05263c69e7d418695086a038a16493b" title="Connection::processReadyRead" alt="" coords="919,43,1129,69"/>
+<area shape="rect" id="node6" href="$class_connection.html#a903238da767af13261c8de1721807b48" title="Connection::Connection" alt="" coords="1177,43,1340,69"/>
+</map>

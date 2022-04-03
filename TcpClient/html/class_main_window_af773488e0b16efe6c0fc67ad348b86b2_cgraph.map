@@ -1,0 +1,12 @@
+<map id="MainWindow::createConnections" name="MainWindow::createConnections">
+<area shape="rect" id="node2" href="$class_main_window.html#a17c431be33f2b2b07f0994c549913b95" title="MainWindow::sendMessage" alt="" coords="292,5,479,32"/>
+<area shape="rect" id="node3" href="$class_singleton.html#addc6ecbb58ad4b221661df52f2e93e48" title="Singleton\&lt; Connection \&gt;::i" alt="" coords="571,5,749,32"/>
+<area shape="rect" id="node4" href="$class_main_window.html#aa7eb693783225376bf2cbcdfc9cac528" title="MainWindow::newMssg" alt="" coords="305,107,466,133"/>
+<area shape="rect" id="node5" href="$class_main_window.html#acd8010859479708c2517c7f6bc1e63b9" title="MainWindow::newUser" alt="" coords="307,157,464,184"/>
+<area shape="rect" id="node7" href="$class_main_window.html#a7a91fe426676f19e21a84d989f6f4516" title="MainWindow::lblServerName\lChangeColor" alt="" coords="290,209,481,250"/>
+<area shape="rect" id="node8" href="$class_main_window.html#aa5a328573c610e811387fabe241ca05d" title="MainWindow::listWgtCurrent\lRowChanged" alt="" coords="291,274,480,315"/>
+<area shape="rect" id="node9" href="$class_main_window.html#af98dfe95f9c6c184409a127a551b059a" title="MainWindow::deleteDiscnoctedUser" alt="" coords="268,340,503,367"/>
+<area shape="rect" id="node11" href="$class_main_window.html#a11974cf1876bbfb8d7ff9fdc56efff06" title="MainWindow::errorNickName" alt="" coords="289,391,482,417"/>
+<area shape="rect" id="node6" href="$class_main_window.html#ae9ec60301b931180b47f6e943d90700b" title="MainWindow::addUserToListView" alt="" coords="551,157,769,184"/>
+<area shape="rect" id="node10" href="$class_main_window.html#a8a719c9b0ced50380d58cfa2845b7633" title="MainWindow::deleteUserAt\lListView" alt="" coords="569,333,751,374"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="MainWindow::currentTime" name="MainWindow::currentTime">
+<area shape="rect" id="node2" href="$class_main_window.html#ad523b729373516f52a27a1cef12bcf0d" title="MainWindow::greetingMessage\lRecieved" alt="" coords="228,5,432,47"/>
+<area shape="rect" id="node4" href="$class_main_window.html#a3f7f89b71bd1acb7f7bd29617fecfe49" title="MainWindow::newConnection" alt="" coords="233,71,427,98"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a7081b71b0c18b10c913c9382981ddd2d" title="MainWindow::disconnected\lHandler" alt="" coords="239,123,421,164"/>
+<area shape="rect" id="node6" href="$class_main_window.html#af085c240c01e01f8df48b5a39450de3e" title="MainWindow::startServer" alt="" coords="245,189,415,215"/>
+<area shape="rect" id="node7" href="$class_main_window.html#a7ab2d2214392e550e8c24ff1def300bc" title="MainWindow::stopServer" alt="" coords="246,239,414,266"/>
+<area shape="rect" id="node8" href="$class_main_window.html#acb96e7297764f0da1b84f35acbcc2234" title="MainWindow::errorRepeatUser" alt="" coords="229,290,431,317"/>
+<area shape="rect" id="node3" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow::MainWindow" alt="" coords="480,159,660,186"/>
+</map>

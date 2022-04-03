@@ -1,0 +1,16 @@
+<map id="Connection::Connection" name="Connection::Connection">
+<area shape="rect" id="node2" href="$class_connection.html#af05263c69e7d418695086a038a16493b" title="Connection::processReadyRead" alt="" coords="216,150,427,177"/>
+<area shape="rect" id="node11" href="$class_connection.html#aceb89f1fcbbb7029fe08797a8dbe9b73" title="Connection::tryConnect" alt="" coords="1163,226,1323,253"/>
+<area shape="rect" id="node13" href="$class_connection.html#a1fd6f3bd9e2a039f88d6285bff257078" title="Connection::stopTryConnect" alt="" coords="693,277,883,303"/>
+<area shape="rect" id="node14" href="$class_connection.html#af9c4d241f6845701c8ea393ee59e06cb" title="Connection::sendGreeting\lMessage" alt="" coords="235,328,408,369"/>
+<area shape="rect" id="node3" href="$class_connection.html#a82ef36aa710511384c4aac47fa72e712" title="Connection::readProtocol\lHeader" alt="" coords="475,37,645,79"/>
+<area shape="rect" id="node7" href="$class_connection.html#a5b64931a7c4dbccdda15fda4f6db71cb" title="Connection::hasEnoughData" alt="" coords="693,125,883,151"/>
+<area shape="rect" id="node8" href="$class_connection.html#aa7071a2d55cdf43ffe4b02b3c7203a04" title="Connection::processData" alt="" coords="475,175,645,202"/>
+<area shape="rect" id="node4" href="$class_connection.html#abbf441e943817829226fef26e741e78a" title="Connection::readDataInto\lBuffer" alt="" coords="1157,5,1328,47"/>
+<area shape="rect" id="node5" href="$class_connection.html#a3cb0816f9abeb326d7c75215cca52fb7" title="Connection::readExtraData" alt="" coords="698,74,878,101"/>
+<area shape="rect" id="node6" href="$class_connection.html#a48f4fbdb292a33b1242652fcaa70ffec" title="Connection::dataLengthFor\lCurrentDataType" alt="" coords="931,45,1109,87"/>
+<area shape="rect" id="node9" href="$class_connection.html#aacc0c308caecfacb1411d6f454b88cf2" title="Connection::processError" alt="" coords="703,175,873,202"/>
+<area shape="rect" id="node10" href="$class_connection.html#a8f9b99bbea1f88aca4ffecc3efc9ce2f" title="Connection::sendPing" alt="" coords="945,175,1095,202"/>
+<area shape="rect" id="node12" href="$class_singleton.html#addc6ecbb58ad4b221661df52f2e93e48" title="Singleton\&lt; Configs \&gt;::i" alt="" coords="1376,302,1532,329"/>
+<area shape="rect" id="node15" href="$class_configs.html#ae80645f7d34bee09945af2827c60ca39" title="Configs::nickName" alt="" coords="493,327,627,354"/>
+</map>

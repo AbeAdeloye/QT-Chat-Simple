@@ -1,0 +1,6 @@
+<map id="Connection::processData" name="Connection::processData">
+<area shape="rect" id="node2" href="$class_connection.html#aacc0c308caecfacb1411d6f454b88cf2" title="Connection::processError" alt="" coords="224,5,395,32"/>
+<area shape="rect" id="node3" href="$class_connection.html#a8f9b99bbea1f88aca4ffecc3efc9ce2f" title="Connection::sendPing" alt="" coords="443,5,593,32"/>
+<area shape="rect" id="node4" href="$class_connection.html#aceb89f1fcbbb7029fe08797a8dbe9b73" title="Connection::tryConnect" alt="" coords="641,5,801,32"/>
+<area shape="rect" id="node5" href="$class_singleton.html#addc6ecbb58ad4b221661df52f2e93e48" title="Singleton\&lt; Configs \&gt;::i" alt="" coords="849,5,1005,32"/>
+</map>

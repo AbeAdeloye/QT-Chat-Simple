@@ -1,0 +1,5 @@
+<map id="Connection::greetingMessage" name="Connection::greetingMessage">
+<area shape="rect" id="node2" href="$class_connection.html#af9c4d241f6845701c8ea393ee59e06cb" title="Connection::sendGreeting\lMessage" alt="" coords="248,5,421,47"/>
+<area shape="rect" id="node3" href="$class_connection.html#a903238da767af13261c8de1721807b48" title="Connection::Connection" alt="" coords="728,13,891,39"/>
+<area shape="rect" id="node4" href="$class_connection.html#af05263c69e7d418695086a038a16493b" title="Connection::processReadyRead" alt="" coords="469,38,680,65"/>
+</map>

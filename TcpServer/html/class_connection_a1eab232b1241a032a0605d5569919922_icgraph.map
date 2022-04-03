@@ -1,0 +1,5 @@
+<map id="Connection::sendNickName" name="Connection::sendNickName">
+<area shape="rect" id="node2" href="$class_peer_manager.html#aae3163d2f03fe1d6541f4c7f39237f4d" title="PeerManager::readyForUse" alt="" coords="240,5,423,32"/>
+<area shape="rect" id="node3" href="$class_peer_manager.html#a0468261e239c02dcdf67bf3d61cf267c" title="PeerManager::newConnections" alt="" coords="471,5,675,32"/>
+<area shape="rect" id="node4" href="$class_peer_manager.html#a8103af082c6556988afb13a3b0e7448f" title="PeerManager::PeerManager" alt="" coords="723,5,907,32"/>
+</map>

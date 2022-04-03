@@ -1,0 +1,8 @@
+<map id="Connection::sendPing" name="Connection::sendPing">
+<area shape="rect" id="node2" href="$class_connection.html#aceb89f1fcbbb7029fe08797a8dbe9b73" title="Connection::tryConnect" alt="" coords="209,5,369,32"/>
+<area shape="rect" id="node4" href="$class_connection.html#a1fd6f3bd9e2a039f88d6285bff257078" title="Connection::stopTryConnect" alt="" coords="423,56,612,83"/>
+<area shape="rect" id="node5" href="$class_connection.html#aacc0c308caecfacb1411d6f454b88cf2" title="Connection::processError" alt="" coords="204,107,375,133"/>
+<area shape="rect" id="node3" href="$class_connection.html#a903238da767af13261c8de1721807b48" title="Connection::Connection" alt="" coords="919,56,1081,83"/>
+<area shape="rect" id="node6" href="$class_connection.html#aa7071a2d55cdf43ffe4b02b3c7203a04" title="Connection::processData" alt="" coords="432,107,603,133"/>
+<area shape="rect" id="node7" href="$class_connection.html#af05263c69e7d418695086a038a16493b" title="Connection::processReadyRead" alt="" coords="660,107,871,133"/>
+</map>

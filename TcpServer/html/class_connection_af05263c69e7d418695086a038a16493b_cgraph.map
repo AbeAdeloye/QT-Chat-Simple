@@ -1,0 +1,13 @@
+<map id="Connection::processReadyRead" name="Connection::processReadyRead">
+<area shape="rect" id="node2" href="$class_connection.html#a82ef36aa710511384c4aac47fa72e712" title="Connection::readProtocol\lHeader" alt="" coords="266,47,435,88"/>
+<area shape="rect" id="node6" href="$class_connection.html#a5b64931a7c4dbccdda15fda4f6db71cb" title="Connection::hasEnoughData" alt="" coords="488,152,677,178"/>
+<area shape="rect" id="node7" href="$class_client.html#a570f3c0959adc5bfe2979474e79efb05" title="Client::setNickName" alt="" coords="279,189,423,216"/>
+<area shape="rect" id="node8" href="$class_connection.html#af9c4d241f6845701c8ea393ee59e06cb" title="Connection::sendGreeting\lMessage" alt="" coords="264,240,437,282"/>
+<area shape="rect" id="node11" href="$class_connection.html#aa7071a2d55cdf43ffe4b02b3c7203a04" title="Connection::processData" alt="" coords="265,306,436,333"/>
+<area shape="rect" id="node3" href="$class_connection.html#abbf441e943817829226fef26e741e78a" title="Connection::readDataInto\lBuffer" alt="" coords="955,6,1125,47"/>
+<area shape="rect" id="node4" href="$class_connection.html#ac1ff77af0ca7bc8ca78a7bb78b162946" title="Connection::readNickName\lForSend" alt="" coords="491,35,674,76"/>
+<area shape="rect" id="node5" href="$class_connection.html#a48f4fbdb292a33b1242652fcaa70ffec" title="Connection::dataLengthFor\lCurrentDataType" alt="" coords="728,64,907,106"/>
+<area shape="rect" id="node9" href="$class_connection.html#a2bde03d6d75d386f1219ed3e96fa833f" title="Connection::greetingMessage" alt="" coords="485,252,680,278"/>
+<area shape="rect" id="node10" href="$class_client.html#ad8945aaae810af725e5001dfc68c08a3" title="Client::nickName" alt="" coords="756,277,879,304"/>
+<area shape="rect" id="node12" href="$class_connection.html#aab996455adcc39586c6c62b40393ca03" title="Connection::nickName" alt="" coords="505,304,660,330"/>
+</map>

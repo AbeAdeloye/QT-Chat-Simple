@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\tcpserver.o
+./release\peermanager.o
+./release\client.o
+./release\connection.o
+./release\moc_mainwindow.o
+./release\moc_tcpserver.o
+./release\moc_peermanager.o
+./release\moc_client.o
+./release\moc_connection.o
+);

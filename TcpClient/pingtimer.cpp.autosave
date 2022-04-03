@@ -1,0 +1,17 @@
+#include "pingtimer.h"
+#include "connection.h"
+#include "configs.h"
+
+constexpr int PingTime = 5 * 1000;
+
+PingTimer::PingTimer(QObject *parent) : QObject(parent)
+{
+    setInterval(PingTime);
+    connect(this, SIGNAL(timeout()), this, SLOT(tryToConnect()));    
+}
+
+void PingTimer::pingServer()
+{
+    Connection::i()->connectToHost(Configs::i()->serverIp(), 
+                                   Configs::i()->serverPort());
+}

@@ -1,0 +1,29 @@
+#ifndef PINGTIMER_H
+#define PINGTIMER_H
+
+#include <QObject>
+#include <QHostAddress>
+#include <QTimer>
+
+class PingTimer : public QTimer
+{
+    Q_OBJECT
+public:
+    explicit PingTimer(QObject *parent = nullptr);
+
+signals:
+    void connectToServer(bool isConnect);
+
+private slots:
+    void pingServer();
+    
+private: 
+    bool tryToConnect();
+
+private:
+    QHostAddress _serverAddres;
+    quint16 _serverPort;
+    
+};
+
+#endif // PINGTIMER_H

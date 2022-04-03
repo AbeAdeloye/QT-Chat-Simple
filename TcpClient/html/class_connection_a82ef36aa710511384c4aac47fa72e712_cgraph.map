@@ -1,0 +1,5 @@
+<map id="Connection::readProtocolHeader" name="Connection::readProtocolHeader">
+<area shape="rect" id="node2" href="$class_connection.html#abbf441e943817829226fef26e741e78a" title="Connection::readDataInto\lBuffer" alt="" coords="677,5,848,47"/>
+<area shape="rect" id="node3" href="$class_connection.html#a3cb0816f9abeb326d7c75215cca52fb7" title="Connection::readExtraData" alt="" coords="223,34,403,61"/>
+<area shape="rect" id="node4" href="$class_connection.html#a48f4fbdb292a33b1242652fcaa70ffec" title="Connection::dataLengthFor\lCurrentDataType" alt="" coords="451,35,629,76"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="Connection::processReadyRead" name="Connection::processReadyRead">
+<area shape="rect" id="node2" href="$class_connection.html#a82ef36aa710511384c4aac47fa72e712" title="Connection::readProtocol\lHeader" alt="" coords="265,49,434,90"/>
+<area shape="rect" id="node6" href="$class_connection.html#a5b64931a7c4dbccdda15fda4f6db71cb" title="Connection::hasEnoughData" alt="" coords="483,136,672,163"/>
+<area shape="rect" id="node7" href="$class_connection.html#aa7071a2d55cdf43ffe4b02b3c7203a04" title="Connection::processData" alt="" coords="264,187,435,213"/>
+<area shape="rect" id="node3" href="$class_connection.html#abbf441e943817829226fef26e741e78a" title="Connection::readDataInto\lBuffer" alt="" coords="947,6,1117,47"/>
+<area shape="rect" id="node4" href="$class_connection.html#a3cb0816f9abeb326d7c75215cca52fb7" title="Connection::readExtraData" alt="" coords="487,35,667,61"/>
+<area shape="rect" id="node5" href="$class_connection.html#a48f4fbdb292a33b1242652fcaa70ffec" title="Connection::dataLengthFor\lCurrentDataType" alt="" coords="720,57,899,98"/>
+<area shape="rect" id="node8" href="$class_connection.html#aacc0c308caecfacb1411d6f454b88cf2" title="Connection::processError" alt="" coords="492,187,663,213"/>
+<area shape="rect" id="node9" href="$class_connection.html#a8f9b99bbea1f88aca4ffecc3efc9ce2f" title="Connection::sendPing" alt="" coords="734,187,885,213"/>
+<area shape="rect" id="node10" href="$class_connection.html#aceb89f1fcbbb7029fe08797a8dbe9b73" title="Connection::tryConnect" alt="" coords="952,187,1112,213"/>
+<area shape="rect" id="node11" href="$class_singleton.html#addc6ecbb58ad4b221661df52f2e93e48" title="Singleton\&lt; Configs \&gt;::i" alt="" coords="1165,187,1321,213"/>
+</map>

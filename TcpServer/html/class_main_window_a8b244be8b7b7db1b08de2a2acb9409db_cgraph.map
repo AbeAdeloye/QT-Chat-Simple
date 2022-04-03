@@ -1,0 +1,11 @@
+<map id="MainWindow::MainWindow" name="MainWindow::MainWindow">
+<area shape="rect" id="node2" href="$class_singleton.html#addc6ecbb58ad4b221661df52f2e93e48" title="Singleton\&lt; PeerManager \&gt;::i" alt="" coords="241,5,429,32"/>
+<area shape="rect" id="node3" href="$class_main_window.html#a3f7f89b71bd1acb7f7bd29617fecfe49" title="MainWindow::newConnection" alt="" coords="238,56,433,83"/>
+<area shape="rect" id="node6" href="$class_main_window.html#a7081b71b0c18b10c913c9382981ddd2d" title="MainWindow::disconnected\lHandler" alt="" coords="244,107,427,149"/>
+<area shape="rect" id="node7" href="$class_main_window.html#af085c240c01e01f8df48b5a39450de3e" title="MainWindow::startServer" alt="" coords="251,173,420,200"/>
+<area shape="rect" id="node8" href="$class_main_window.html#a7ab2d2214392e550e8c24ff1def300bc" title="MainWindow::stopServer" alt="" coords="251,224,419,251"/>
+<area shape="rect" id="node9" href="$class_main_window.html#ad523b729373516f52a27a1cef12bcf0d" title="MainWindow::greetingMessage\lRecieved" alt="" coords="233,275,437,317"/>
+<area shape="rect" id="node10" href="$class_main_window.html#acb96e7297764f0da1b84f35acbcc2234" title="MainWindow::errorRepeatUser" alt="" coords="235,341,436,368"/>
+<area shape="rect" id="node4" href="$class_main_window.html#a2c740b2566897d3184a112cf5e8f1666" title="MainWindow::currentTime" alt="" coords="485,199,660,225"/>
+<area shape="rect" id="node5" href="$class_connection.html#ab1b273454f6d232a62d0eaa6412768dc" title="Connection::addresPort" alt="" coords="493,56,652,83"/>
+</map>

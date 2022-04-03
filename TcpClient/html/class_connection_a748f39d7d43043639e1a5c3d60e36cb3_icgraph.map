@@ -1,0 +1,9 @@
+<map id="Connection::serverIsConnected" name="Connection::serverIsConnected">
+<area shape="rect" id="node2" href="$class_connection.html#a8f9b99bbea1f88aca4ffecc3efc9ce2f" title="Connection::sendPing" alt="" coords="260,56,411,83"/>
+<area shape="rect" id="node3" href="$class_connection.html#aceb89f1fcbbb7029fe08797a8dbe9b73" title="Connection::tryConnect" alt="" coords="464,5,624,32"/>
+<area shape="rect" id="node5" href="$class_connection.html#a1fd6f3bd9e2a039f88d6285bff257078" title="Connection::stopTryConnect" alt="" coords="677,56,867,83"/>
+<area shape="rect" id="node7" href="$class_connection.html#aa7071a2d55cdf43ffe4b02b3c7203a04" title="Connection::processData" alt="" coords="687,107,857,133"/>
+<area shape="rect" id="node6" href="$class_connection.html#aacc0c308caecfacb1411d6f454b88cf2" title="Connection::processError" alt="" coords="459,107,629,133"/>
+<area shape="rect" id="node4" href="$class_connection.html#a903238da767af13261c8de1721807b48" title="Connection::Connection" alt="" coords="1173,56,1336,83"/>
+<area shape="rect" id="node8" href="$class_connection.html#af05263c69e7d418695086a038a16493b" title="Connection::processReadyRead" alt="" coords="915,107,1125,133"/>
+</map>
